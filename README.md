@@ -17,5 +17,5 @@ Passionate about solving real-world problems with technology. Skilled in Python,
 
 📫 **Let's Connect!**  
 - **Email:** deepp3123@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile Link](https://linkedin.com)  
-- **Portfolio:** [Your Portfolio Link](https://portfolioatdeep.onrender.com)  
+- **LinkedIn:** [LinkedIn]([https://www.linkedin.com/in/deep-patel-5b8798298/])  
+- **Portfolio:** [Portfolio](https://portfolioatdeep.onrender.com)  
