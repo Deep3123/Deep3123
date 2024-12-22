@@ -1,4 +1,4 @@
-# Hi there, I'm Deep N Patel 👋  
+# Hi there, I'm Deep Patel 👋  
 ### Final-Year Computer Engineering Student | Aspiring Software Developer | Tech Enthusiast  
 
 Passionate about solving real-world problems with technology. Skilled in Python, Java, ReactJS, and Django, I love creating scalable and user-friendly software solutions.  
