@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Deep N Patel 👋  
+### Final-Year Computer Engineering Student | Aspiring Software Developer | Tech Enthusiast  
 
-<!--
-**Deep3123/Deep3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about solving real-world problems with technology. Skilled in Python, Java, ReactJS, and Django, I love creating scalable and user-friendly software solutions.  
 
-Here are some ideas to get you started:
+🌟 **What I Do:**  
+- Full-stack development using modern frameworks like ReactJS and Django.  
+- AI/ML projects, such as LungDetect.Ai, showcasing the power of deep learning in healthcare.  
+- Building secure and scalable applications with robust backend solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Technologies I Work With:**  
+- **Programming Languages:** Python, Java, C++, JavaScript, SQL, HTML, CSS  
+- **Frameworks:** ReactJS, Django, Flask  
+- **Databases:** PostgreSQL, MongoDB, MySQL  
+- **Tools:** Git, Docker, Azure  
+- **Cloud Services:** Azure, AWS    
+
+📫 **Let's Connect!**  
+- **Email:** deepp3123@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile Link](https://linkedin.com)  
+- **Portfolio:** [Your Portfolio Link](https://portfolioatdeep.onrender.com)  
