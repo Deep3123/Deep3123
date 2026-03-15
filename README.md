@@ -1,7 +1,7 @@
 # Hi there, I'm Deep Patel 👋
 ### Java Full Stack Engineer | Spring Boot | Angular | Microservices | FinTech
 
-I am a Java backend developer with experience building scalable enterprise applications and microservices in a FinTech environment. I enjoy designing reliable backend systems, optimizing performance, and building APIs that power real-world applications.
+I am a Java full stack developer with experience building scalable enterprise applications and microservices in a FinTech environment. I enjoy designing reliable backend systems, optimizing performance, and building APIs that power real-world applications.
 
 ## 🚀 What I Do
 - Build scalable backend services using **Java, Spring Boot, and Microservices architecture**
