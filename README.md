@@ -73,8 +73,6 @@ I am a Software Engineer with experience building enterprise-scale applications,
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 * 📧 Email: [deepp1582@gmail.com](mailto:deepp1582@gmail.com)
 * 💼 LinkedIn: [Deep Patel](https://www.linkedin.com/in/deep-patel-sde/)
 * 🌐 Portfolio: [Portfolio Website](https://deeppatel3123-portfolio.vercel.app/)
